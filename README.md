@@ -1,4 +1,4 @@
-# UTS Data Science - Pertemuan 1 sampai 7
+# Hands On Data Science
 
 Nama: Widya Anggara  
 NIM: 230401020091  
@@ -41,9 +41,3 @@ Repository ini dibuat sebagai bagian dari Ujian Tengah Semester mata kuliah Data
 2. Buka file `.ipynb` menggunakan Google Colab atau Jupyter Notebook.
 3. Jalankan notebook dari sel pertama sampai terakhir.
 4. Pastikan seluruh output tampil tanpa error.
-
-## Kesimpulan Umum
-
-Melalui praktikum Pertemuan 1 sampai 7, saya mempelajari alur dasar Data Science mulai dari pengenalan konsep, penggunaan Python, eksplorasi data, statistika deskriptif, visualisasi data, preprocessing, hingga pembuatan model Machine Learning sederhana menggunakan Regresi Linear.
-
-Praktikum ini menunjukkan bahwa proses Data Science tidak hanya berfokus pada pembuatan model, tetapi juga mencakup pemahaman masalah, persiapan data, analisis, visualisasi, dan evaluasi hasil.
